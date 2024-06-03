@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xiaomeng Ye aka @Yebyyy
-- 👀 I’m interested in Machine Learning, Deep Learning, and General AI stuff
-- 🌱 I’m currently learning to build RNNs and Transformers from scratch
+- 👀 I’m interested in Machine Learning, Deep Learning, generative AI, and cybersecurity
+- 🌱 I’m currently learning to build Transformers from scratch
 - 💞️ I’m also working on a model for football⚽️ match video analysis based on Yolo5x
 - 📫 How to reach me: [My Personal Website](https://www.yebyyy.com)
 - 😄 Pronouns: He/Him/His
