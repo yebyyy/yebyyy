@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xiaomeng Ye aka @Yebyyy
-- 👀 I’m interested in AI and Cybersecurity.
+- 👀 I’m interested in AI, software and AR development, Robotics, and Cybersecurity.
 - 🌱 I’m currently learning to build RAG Agents with LLMs.
 - 💞️ I’m also working on fine tuning Llama 3 for personalized data.
 - 📫 How to reach me: [My Personal Website](https://www.yebyyy.com)
