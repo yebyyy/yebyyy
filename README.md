@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xiaomeng Ye aka @Yebyyy
-- 👀 I’m interested in AI, Robotics, and computer system and architecture.
-- 🌱 I’m currently exploring GPU programming with Triton and CUDA.
-- 💞️ I’m working on a toy implementation of MPPI, Flash Attention, and a multimodal LLM.
+- 👀 I’m interested in Computer Vision, Robotics, and Computer System and Architecture.
+- 🌱 I’m currently working on training Reinforcement Leanring Robotic Agents in Simulation.
+- 🔬 I’m researching in the field of Robotics and Computer Vision.
 - 📫 How to reach me: [My Personal Website](https://www.yebyyy.com)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I played violin for 12 years and I am currently playing in GTSO (Georgia Tech Symphony Orchesta).
