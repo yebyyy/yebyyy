@@ -3,8 +3,7 @@
 - 🌱 I’m currently working on training Reinforcement Leanring Robotic Agents in Simulation.
 - 🔬 I’m researching in the field of Robotics and Computer Vision.
 - 📫 How to reach me: [My Personal Website](https://www.yebyyy.com)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I played violin for 12 years and I am currently playing in GTSO (Georgia Tech Symphony Orchesta).
+- ⚡ Fun fact: I played violin for 14 years and I am currently playing in GTSO (Georgia Tech Symphony Orchesta).
 
 <!---
 yebyyy/yebyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
