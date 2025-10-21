@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I played violin for 14 years and I am currently playing in GTSO (Georgia Tech Symphony Orchesta).
 
 Georgia Tech '27 - Atlanta, GA
+
 Lyndon Institute '23 - Montpelier, VT
 
 <!---
