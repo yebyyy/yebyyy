@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I played violin for 14 years and I am currently playing in GTSO (Georgia Tech Symphony Orchesta).
 
 Georgia Tech '27 - Atlanta, GA\
-Lyndon Institute '23 - Montpelier, VT
+Lyndon Institute '23 - Hefei, China & Montpelier, VT
 
 <!---
 yebyyy/yebyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
